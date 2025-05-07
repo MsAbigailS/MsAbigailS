@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MsAbigailS
 - 👀 I’m interested in software development and web development
-- 🌱 I’m currently learning at The University of Texas at Dallas
 - 📫 How to reach me: msabigailrsmith@gmail.com
 
 <!---
